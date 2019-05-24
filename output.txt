@@ -1,0 +1,1131 @@
+---------------------------------------------
+-                     HMM                   -
+---------------------------------------------
+State 0
+Transitions
+	To state	0	0.17307692307692307
+	To state	1	0.0
+	To state	2	0.8269230769230769
+	Total: 1.0
+
+Emission probabilities
+	Word: dog                            0.27884615384615385
+	Word: cat                            0.17307692307692307
+	Word: boy                            0.16346153846153846
+	Word: big                            0.14423076923076922
+	Word: girl                           0.09615384615384616
+	Word: talked                         0.08653846153846154
+	Word: slept                          0.038461538461538464
+	Word: talk                           0.019230769230769235
+	Total: 1.0
+
+State 1
+Transitions
+	To state	0	0.8037383177570093
+	To state	1	0.0
+	To state	2	0.19626168224299068
+	Total: 1.0
+
+Emission probabilities
+	Word: the                            0.4491525423728814
+	Word: a                              0.17796610169491525
+	Word: who                            0.13559322033898305
+	Word: ?                              0.09322033898305085
+	Word: I                              0.06779661016949153
+	Word: we                             0.0423728813559322
+	Word: what                           0.025423728813559313
+	Word: you                            0.008474576271186442
+	Total: 1.0
+
+State 2
+Transitions
+	To state	0	1.5333502272682824e-149
+	To state	1	1.0
+	To state	2	3.697304667910433e-118
+	Total: 1.0
+
+Emission probabilities
+	Word: .                              0.34579439252336447
+	Word: bit                            0.18691588785046728
+	Word: did                            0.102803738317757
+	Word: to                             0.09345794392523364
+	Word: ?                              0.07476635514018691
+	Word: saw                            0.07476635514018691
+	Word: see                            0.06542056074766354
+	Word: is                             0.028037383177570093
+	Word: bite                           0.018691588785046728
+	Word: heard                          0.009345794392523362
+	Total: 1.0
+
+---------------------------
+Pi:
+State	0	0.0
+State	1	1.0
+State	2	0.0
+---------------------------
+
+
+---------------------------------------------
+-                     HMM                   -
+---------------------------------------------
+State 0
+Transitions
+	To state	0	0.18391006518933134
+	To state	1	0.07028774868140887
+	To state	2	0.023404977821876786
+	To state	3	0.722397208307383
+	Total: 1.0
+
+Emission probabilities
+	Word: ?                              1.0            
+	Total: 1.0
+
+State 1
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.9439252336448598
+	To state	3	0.056074766355140186
+	Total: 1.0
+
+Emission probabilities
+	Word: the                            0.4953271028037383
+	Word: a                              0.19626168224299065
+	Word: who                            0.14953271028037382
+	Word: I                              0.07476635514018691
+	Word: we                             0.04672897196261682
+	Word: what                           0.0280373831775701
+	Word: you                            0.009345794392523362
+	Total: 1.0
+
+State 2
+Transitions
+	To state	0	0.06722689075629924
+	To state	1	0.12605042016806722
+	To state	2	0.15126050420168066
+	To state	3	0.6554621848739528
+	Total: 0.9999999999999999
+
+Emission probabilities
+	Word: dog                            0.2436974789915967
+	Word: cat                            0.15126050420168066
+	Word: boy                            0.14285714285714285
+	Word: big                            0.12605042016806722
+	Word: did                            0.09243697478991597
+	Word: girl                           0.08403361344537816
+	Word: talked                         0.07563025210084033
+	Word: slept                          0.03361344537815126
+	Word: is                             0.025210084033613453
+	Word: talk                           0.01680672268907563
+	Word: heard                          0.008403361344537815
+	Total: 1.0
+
+State 3
+Transitions
+	To state	0	0.23404255319148945
+	To state	1	0.7659574468085106
+	To state	2	5.980910909090545e-141
+	To state	3	1.383350202614544e-139
+	Total: 1.0
+
+Emission probabilities
+	Word: .                              0.44047619047618847
+	Word: bit                            0.23809523809523697
+	Word: to                             0.1190476190476185
+	Word: saw                            0.09523809523809479
+	Word: see                            0.08333333333333295
+	Word: bite                           0.0238095238095237
+	Total: 1.0
+
+---------------------------
+Pi:
+State	0	0.0
+State	1	1.0
+State	2	0.0
+State	3	0.0
+---------------------------
+
+
+---------------------------------------------
+-                     HMM                   -
+---------------------------------------------
+State 0
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.4
+	To state	3	0.6
+	To state	4	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: big                            0.6            
+	Word: to                             0.4            
+	Total: 1.0
+
+State 1
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.0
+	To state	3	0.0
+	To state	4	1.0
+	Total: 1.0
+
+Emission probabilities
+	Word: who                            0.48484848484848486
+	Word: I                              0.24242424242424243
+	Word: we                             0.15151515151515152
+	Word: what                           0.0909090909090909
+	Word: you                            0.030303030303030293
+	Total: 1.0
+
+State 2
+Transitions
+	To state	0	0.2027027027027027
+	To state	1	0.0
+	To state	2	0.0
+	To state	3	0.7972972972972973
+	To state	4	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: the                            0.5888888888888889
+	Word: a                              0.23333333333333334
+	Word: ?                              0.13333333333333333
+	Word: .                              0.044444444444444446
+	Total: 1.0
+
+State 3
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.0
+	To state	3	0.0
+	To state	4	1.0
+	Total: 1.0
+
+Emission probabilities
+	Word: dog                            0.3918918918918919
+	Word: cat                            0.24324324324324326
+	Word: boy                            0.22972972972972974
+	Word: girl                           0.13513513513513514
+	Total: 1.0
+
+State 4
+Transitions
+	To state	0	0.14925373134328357
+	To state	1	0.029850746268656712
+	To state	2	0.8208955223880597
+	To state	3	8.59062610966582e-170
+	To state	4	2.2570951553764065e-49
+	Total: 1.0
+
+Emission probabilities
+	Word: .                              0.30841121495327106
+	Word: bit                            0.18691588785046725
+	Word: did                            0.10280373831775698
+	Word: talked                         0.08411214953271028
+	Word: saw                            0.07476635514018691
+	Word: ?                              0.06542056074766354
+	Word: see                            0.06542056074766354
+	Word: slept                          0.037383177570093455
+	Word: is                             0.02803738317757009
+	Word: bite                           0.018691588785046728
+	Word: talk                           0.018691588785046728
+	Word: heard                          0.009345794392523366
+	Total: 1.0
+
+---------------------------
+Pi:
+State	0	0.0
+State	1	0.5535714285714286
+State	2	0.44642857142857145
+State	3	0.0
+State	4	0.0
+---------------------------
+
+
+---------------------------------------------
+-                     HMM                   -
+---------------------------------------------
+State 0
+Transitions
+	To state	0	0.16853932584269662
+	To state	1	0.8314606741573034
+	To state	2	0.0
+	To state	3	0.0
+	To state	4	0.0
+	To state	5	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: the                            0.578759391294479
+	Word: a                              0.22931975881479355
+	Word: big                            0.16379982772485255
+	Word: ?                              0.02812102216587487
+	Total: 0.9999999999999999
+
+State 1
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.5875966759955608
+	To state	3	0.0
+	To state	4	0.027729335269033133
+	To state	5	0.38467398873540615
+	Total: 1.0
+
+Emission probabilities
+	Word: dog                            0.3918918918918919
+	Word: cat                            0.24324324324324326
+	Word: boy                            0.2297297297297297
+	Word: girl                           0.13513513513513511
+	Total: 0.9999999999999999
+
+State 2
+Transitions
+	To state	0	1.3674352053532832e-32
+	To state	1	2.8614944627837427e-35
+	To state	2	1.0
+	To state	3	4.388673503313694e-36
+	To state	4	5.448498171251119e-37
+	To state	5	5.301720749812155e-35
+	Total: 1.0
+
+Emission probabilities
+	Word: .                              0.5148784977483155
+	Word: ?                              0.3021301131198119
+	Word: see                            0.1287631649893983
+	Word: bite                           0.03678947571125665
+	Word: slept                          0.017438748431217663
+	Total: 1.0
+
+State 3
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.0
+	To state	3	0.0
+	To state	4	0.8181818181818182
+	To state	5	0.18181818181818182
+	Total: 1.0
+
+Emission probabilities
+	Word: who                            0.48484848484848486
+	Word: I                              0.24242424242424243
+	Word: we                             0.1515151515151515
+	Word: what                           0.09090909090909091
+	Word: you                            0.03030303030303031
+	Total: 1.0
+
+State 4
+Transitions
+	To state	0	0.46727252953956094
+	To state	1	0.0
+	To state	2	0.032121402323752136
+	To state	3	0.0688421454463902
+	To state	4	0.0
+	To state	5	0.43176392269029673
+	Total: 1.0
+
+Emission probabilities
+	Word: did                            0.37863179995514606
+	Word: talked                         0.3097896545087559
+	Word: slept                          0.10505210919692747
+	Word: is                             0.10326321816958532
+	Word: talk                           0.0688421454463902
+	Word: heard                          0.03442107272319509
+	Total: 1.0
+
+State 5
+Transitions
+	To state	0	1.0
+	To state	1	5.006748669260076e-292
+	To state	2	9.170457436689637e-75
+	To state	3	3.731416585975189e-289
+	To state	4	2.3473121652375906e-291
+	To state	5	4.39347420954562e-283
+	Total: 1.0
+
+Emission probabilities
+	Word: bit                            0.4254462097034162
+	Word: to                             0.2127231048517081
+	Word: .                              0.19165220156350926
+	Word: saw                            0.17017848388136647
+	Total: 1.0
+
+---------------------------
+Pi:
+State	0	0.44642857142857145
+State	1	0.0
+State	2	0.0
+State	3	0.5535714285714286
+State	4	0.0
+State	5	0.0
+---------------------------
+
+
+---------------------------------------------
+-                     HMM                   -
+---------------------------------------------
+State 0
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.0
+	To state	3	1.0
+	To state	4	0.0
+	To state	5	4.188393757995045e-120
+	To state	6	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: the                            0.46714540402521576
+	Word: a                              0.4152403591335251
+	Word: I                              0.06975865041222433
+	Word: we                             0.047855586429034834
+	Total: 1.0
+
+State 1
+Transitions
+	To state	0	0.17647058823529413
+	To state	1	0.0
+	To state	2	0.0
+	To state	3	0.0
+	To state	4	0.8235294117647058
+	To state	5	0.0
+	To state	6	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: bit                            0.39215686274509803
+	Word: did                            0.21568627450980393
+	Word: saw                            0.1568627450980392
+	Word: to                             0.1568627450980392
+	Word: is                             0.058823529411764705
+	Word: heard                          0.019607843137254905
+	Total: 1.0
+
+State 2
+Transitions
+	To state	0	1.6498003803704482e-32
+	To state	1	1.7519044755329492e-32
+	To state	2	1.0
+	To state	3	1.1671975115938034e-32
+	To state	4	4.189684871236759e-30
+	To state	5	6.0782426965037034e-33
+	To state	6	6.121226614508691e-33
+	Total: 1.0
+
+Emission probabilities
+	Word: .                              0.5522388059701493
+	Word: ?                              0.2835820895522388
+	Word: see                            0.1044776119402985
+	Word: bite                           0.029850746268656716
+	Word: to                             0.029850746268656716
+	Total: 0.9999999999999999
+
+State 3
+Transitions
+	To state	0	0.0
+	To state	1	0.625
+	To state	2	5.2359319093972056e-46
+	To state	3	0.16666666666666666
+	To state	4	0.0
+	To state	5	0.20833333333333334
+	To state	6	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: big                            0.3125         
+	Word: boy                            0.1875         
+	Word: talked                         0.16666666666666666
+	Word: cat                            0.125          
+	Word: dog                            0.125          
+	Word: girl                           0.08333333333333333
+	Total: 1.0
+
+State 4
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.0
+	To state	3	6.604032505909686e-56
+	To state	4	0.0
+	To state	5	1.0
+	To state	6	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: the                            0.8333333333333334
+	Word: a                              0.11904761904761904
+	Word: I                              0.023809523809523808
+	Word: we                             0.023809523809523808
+	Total: 1.0
+
+State 5
+Transitions
+	To state	0	0.0
+	To state	1	2.616935368449777e-156
+	To state	2	1.0
+	To state	3	0.0
+	To state	4	0.0
+	To state	5	0.0
+	To state	6	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: dog                            0.4107142857142857
+	Word: cat                            0.21428571428571427
+	Word: boy                            0.14285714285714285
+	Word: girl                           0.10714285714285714
+	Word: slept                          0.07142857142857142
+	Word: talk                           0.03571428571428571
+	Word: talked                         0.017857142857142856
+	Total: 0.9999999999999999
+
+State 6
+Transitions
+	To state	0	0.0
+	To state	1	0.7934079141033483
+	To state	2	0.0
+	To state	3	0.055466768924585325
+	To state	4	0.0
+	To state	5	0.15112531697206633
+	To state	6	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: who                            0.6045012678882653
+	Word: I                              0.16291561009311217
+	Word: what                           0.11334398772904976
+	Word: we                             0.08145780504655609
+	Word: you                            0.03778132924301658
+	Total: 0.9999999999999999
+
+---------------------------
+Pi:
+State	0	0.5273553573967086
+State	1	0.0
+State	2	0.0
+State	3	0.0
+State	4	2.349169054173485e-276
+State	5	0.0
+State	6	0.4726446426032914
+---------------------------
+
+
+---------------------------------------------
+-                     HMM                   -
+---------------------------------------------
+State 0
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	1.0
+	To state	3	0.0
+	To state	4	0.0
+	To state	5	0.0
+	To state	6	0.0
+	To state	7	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: big                            1.0            
+	Total: 1.0
+
+State 1
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.0
+	To state	3	0.18181818181818182
+	To state	4	0.0
+	To state	5	0.8181818181818182
+	To state	6	0.0
+	To state	7	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: who                            0.48484848484848486
+	Word: I                              0.24242424242424243
+	Word: we                             0.15151515151515152
+	Word: what                           0.09090909090909091
+	Word: you                            0.030303030303030304
+	Total: 1.0
+
+State 2
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.0
+	To state	3	0.2972972972972973
+	To state	4	0.4594594594594595
+	To state	5	2.6535625109433475e-70
+	To state	6	0.24324324324324326
+	To state	7	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: dog                            0.3918918918918919
+	Word: cat                            0.24324324324324326
+	Word: boy                            0.22972972972972974
+	Word: girl                           0.13513513513513514
+	Total: 1.0
+
+State 3
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.0
+	To state	3	0.0
+	To state	4	0.0
+	To state	5	0.0
+	To state	6	1.7965612365970088e-33
+	To state	7	1.0
+	Total: 1.0
+
+Emission probabilities
+	Word: bit                            0.5263157894736842
+	Word: to                             0.2631578947368421
+	Word: saw                            0.21052631578947367
+	Total: 1.0
+
+State 4
+Transitions
+	To state	0	0.00015894966932603337
+	To state	1	2.8026392693140953e-05
+	To state	2	4.954473968600352e-05
+	To state	3	3.7387826257209204e-05
+	To state	4	0.999514469149705
+	To state	5	2.2692063373443875e-05
+	To state	6	5.3999881873830426e-05
+	To state	7	0.00013493027708527075
+	Total: 0.9999999999999999
+
+Emission probabilities
+	Word: .                              0.9736842105263158
+	Word: slept                          0.026315789473684202
+	Total: 1.0
+
+State 5
+Transitions
+	To state	0	0.0
+	To state	1	0.07407407407407407
+	To state	2	0.0
+	To state	3	0.2962962962962963
+	To state	4	0.11111111111111113
+	To state	5	0.0
+	To state	6	5.622974334150334e-95
+	To state	7	0.5185185185185185
+	Total: 1.0
+
+Emission probabilities
+	Word: did                            0.4074074074074074
+	Word: talked                         0.25925925925925924
+	Word: slept                          0.11111111111111115
+	Word: is                             0.1111111111111111
+	Word: talk                           0.07407407407407407
+	Word: heard                          0.037037037037037035
+	Total: 1.0
+
+State 6
+Transitions
+	To state	0	2.972964788413787e-92
+	To state	1	9.612848305457039e-93
+	To state	2	3.997080805909287e-93
+	To state	3	0.1818181818181818
+	To state	4	1.0174777828533183e-90
+	To state	5	2.412386770775094e-93
+	To state	6	0.8181818181818182
+	To state	7	2.5387021609798603e-84
+	Total: 1.0
+
+Emission probabilities
+	Word: ?                              0.5925925925925926
+	Word: see                            0.25925925925925924
+	Word: bite                           0.07407407407407407
+	Word: talked                         0.07407407407407407
+	Total: 0.9999999999999999
+
+State 7
+Transitions
+	To state	0	0.20270270270270271
+	To state	1	0.0
+	To state	2	0.7972972972972973
+	To state	3	0.0
+	To state	4	0.0
+	To state	5	0.0
+	To state	6	0.0
+	To state	7	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: the                            0.6883116883116883
+	Word: a                              0.2727272727272727
+	Word: ?                              0.03896103896103896
+	Total: 1.0
+
+---------------------------
+Pi:
+State	0	0.0
+State	1	0.5535714285714286
+State	2	0.0
+State	3	0.0
+State	4	0.0
+State	5	0.0
+State	6	0.0
+State	7	0.44642857142857145
+---------------------------
+
+
+---------------------------------------------
+-                     HMM                   -
+---------------------------------------------
+State 0
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.3956415339889015
+	To state	3	7.06795654071125e-144
+	To state	4	0.3570825072680351
+	To state	5	0.0
+	To state	6	0.0
+	To state	7	0.24727595874306343
+	To state	8	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: I                              0.3956415339889015
+	Word: a                              0.3570825072680351
+	Word: we                             0.24727595874306343
+	Total: 1.0
+
+State 1
+Transitions
+	To state	0	0.06896551724137931
+	To state	1	0.0
+	To state	2	0.0
+	To state	3	0.0
+	To state	4	0.0
+	To state	5	0.0
+	To state	6	0.0
+	To state	7	0.0
+	To state	8	0.9310344827586207
+	Total: 1.0
+
+Emission probabilities
+	Word: did                            0.3793103448275862
+	Word: to                             0.3448275862068966
+	Word: is                             0.10344827586206896
+	Word: bit                            0.10344827586206895
+	Word: saw                            0.03448275862068966
+	Word: slept                          0.03448275862068966
+	Total: 0.9999999999999999
+
+State 2
+Transitions
+	To state	0	0.0
+	To state	1	0.9090909090909091
+	To state	2	0.0
+	To state	3	0.0
+	To state	4	0.0
+	To state	5	0.0
+	To state	6	0.09090909090909091
+	To state	7	0.0
+	To state	8	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: talked                         0.8181818181818182
+	Word: talk                           0.18181818181818182
+	Total: 1.0
+
+State 3
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.02702702702702703
+	To state	3	0.0
+	To state	4	0.0
+	To state	5	0.0
+	To state	6	0.9577500808572263
+	To state	7	0.015222892115746555
+	To state	8	5.8579e-319
+	Total: 0.9999999999999999
+
+Emission probabilities
+	Word: dog                            0.3918918918918919
+	Word: cat                            0.24324324324324326
+	Word: boy                            0.22972972972972974
+	Word: girl                           0.13513513513513514
+	Total: 1.0
+
+State 4
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.0
+	To state	3	1.0
+	To state	4	0.0
+	To state	5	0.0
+	To state	6	0.0
+	To state	7	0.0
+	To state	8	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: big                            1.0            
+	Total: 1.0
+
+State 5
+Transitions
+	To state	0	0.0
+	To state	1	0.95
+	To state	2	0.049999999999999996
+	To state	3	0.0
+	To state	4	0.0
+	To state	5	0.0
+	To state	6	1.4323502490626218e-130
+	To state	7	2.9976416945218452e-248
+	To state	8	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: who                            0.8            
+	Word: what                           0.15000000000000002
+	Word: you                            0.05000000000000001
+	Total: 1.0
+
+State 6
+Transitions
+	To state	0	1.6883492066139615e-34
+	To state	1	2.2045584757803865e-93
+	To state	2	1.7527169140536188e-91
+	To state	3	9.699083788845484e-92
+	To state	4	9.115256961994411e-91
+	To state	5	8.175874575420598e-93
+	To state	6	2.147757279615821e-72
+	To state	7	4.151733983985122e-87
+	To state	8	1.0
+	Total: 1.0
+
+Emission probabilities
+	Word: .                              0.4941667885591733
+	Word: bit                            0.2120043101353723
+	Word: ?                              0.09349101405173549
+	Word: see                            0.09349101405173549
+	Word: saw                            0.08013515490148757
+	Word: bite                           0.026711718300495856
+	Total: 1.0
+
+State 7
+Transitions
+	To state	0	0.5103235240435412
+	To state	1	0.0
+	To state	2	0.0
+	To state	3	0.0
+	To state	4	0.0
+	To state	5	0.0
+	To state	6	0.48967647595645886
+	To state	7	0.0
+	To state	8	5.264291269299577e-247
+	Total: 1.0
+
+Emission probabilities
+	Word: slept                          0.48967647595645886
+	Word: bit                            0.18387254007256862
+	Word: heard                          0.16322549198548628
+	Word: saw                            0.16322549198548628
+	Total: 1.0
+
+State 8
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	3.3100486e-317
+	To state	3	0.8835023396726739
+	To state	4	0.11649766032732603
+	To state	5	0.0
+	To state	6	0.0
+	To state	7	0.0
+	To state	8	0.0
+	Total: 0.9999999999999999
+
+Emission probabilities
+	Word: the                            0.6727623504227963
+	Word: a                              0.17491409853807993
+	Word: ?                              0.1523235510391237
+	Total: 1.0
+
+---------------------------
+Pi:
+State	0	0.2695326780448652
+State	1	0.0
+State	2	0.0
+State	3	0.0
+State	4	0.0
+State	5	0.35714285714285715
+State	6	0.0
+State	7	0.0
+State	8	0.3733244648122777
+---------------------------
+
+
+---------------------------------------------
+-                     HMM                   -
+---------------------------------------------
+State 0
+Transitions
+	To state	0	5.44278127017007e-38
+	To state	1	1.9148245012535232e-42
+	To state	2	1.0
+	To state	3	3.6868581974456125e-42
+	To state	4	4.268964755442509e-43
+	To state	5	1.907110119246416e-43
+	To state	6	9.567698388883319e-42
+	To state	7	2.398967040414645e-41
+	To state	8	8.540481416080928e-43
+	To state	9	6.205739025126535e-40
+	Total: 1.0
+
+Emission probabilities
+	Word: .                              0.788411794107223
+	Word: see                            0.15395590868868833
+	Word: bite                           0.043987402482482375
+	Word: dog                            0.01349664405248017
+	Total: 1.0
+
+State 1
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.0
+	To state	3	0.7520298192050483
+	To state	4	0.0
+	To state	5	0.0
+	To state	6	0.24797018079495156
+	To state	7	0.0
+	To state	8	0.0
+	To state	9	0.0
+	Total: 0.9999999999999999
+
+Emission probabilities
+	Word: the                            0.45636698066175774
+	Word: a                              0.30880510164187236
+	Word: we                             0.11995380181081838
+	Word: I                              0.11487411588555138
+	Total: 0.9999999999999999
+
+State 2
+Transitions
+	To state	0	0.0630847483156818
+	To state	1	0.008256852752907568
+	To state	2	0.529753963647762
+	To state	3	0.08012782631345415
+	To state	4	0.00219064146171423
+	To state	5	0.011394343412415934
+	To state	6	0.11384444930942038
+	To state	7	0.10383373896872297
+	To state	8	0.06423996657304999
+	To state	9	0.023273469244871114
+	Total: 1.0
+
+Emission probabilities
+	Word: ?                              1.0            
+	Total: 1.0
+
+State 3
+Transitions
+	To state	0	6.497871035140158e-41
+	To state	1	0.0
+	To state	2	0.0
+	To state	3	5.9674943e-317
+	To state	4	0.036668913509855405
+	To state	5	0.0
+	To state	6	0.0
+	To state	7	0.0
+	To state	8	0.9633310864901445
+	To state	9	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: boy                            0.2635245869099936
+	Word: talked                         0.26352130011501607
+	Word: cat                            0.1792811683866228
+	Word: dog                            0.14727222230224743
+	Word: girl                           0.08784043337167204
+	Word: talk                           0.05856028891444801
+	Total: 0.9999999999999999
+
+State 4
+Transitions
+	To state	0	0.11881845150763548
+	To state	1	0.08525294421837955
+	To state	2	4.413011095945206e-10
+	To state	3	0.0
+	To state	4	0.0
+	To state	5	2.4270178561263034e-293
+	To state	6	0.0
+	To state	7	0.0
+	To state	8	0.0
+	To state	9	0.7959286038326837
+	Total: 0.9999999999999998
+
+Emission probabilities
+	Word: did                            0.43560306750654765
+	Word: bit                            0.16507361220416666
+	Word: slept                          0.15840111545692642
+	Word: is                             0.1188008365926948
+	Word: saw                            0.08252108937543287
+	Word: heard                          0.0396002788642316
+	Total: 1.0
+
+State 5
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.0
+	To state	3	0.050659420637046496
+	To state	4	0.9493405793629535
+	To state	5	0.0
+	To state	6	0.0
+	To state	7	0.0
+	To state	8	2.341682386711221e-36
+	To state	9	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: who                            0.6328937195753023
+	Word: I                              0.16707773202226484
+	Word: what                           0.11866757242036918
+	Word: we                             0.04180511850860722
+	Word: you                            0.03955585747345639
+	Total: 0.9999999999999999
+
+State 6
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.0
+	To state	3	1.0
+	To state	4	0.0
+	To state	5	0.0
+	To state	6	0.0
+	To state	7	0.0
+	To state	8	1.3597290231786169e-259
+	To state	9	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: big                            0.7546406133453057
+	Word: dog                            0.12267969332734721
+	Word: girl                           0.12267969332734716
+	Total: 1.0
+
+State 7
+Transitions
+	To state	0	0.7439643508979292
+	To state	1	0.0
+	To state	2	0.11176943491716632
+	To state	3	0.0
+	To state	4	0.0
+	To state	5	0.0
+	To state	6	0.0
+	To state	7	0.14426621418490443
+	To state	8	0.0
+	To state	9	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: dog                            0.3916558603453066
+	Word: cat                            0.20806907364787308
+	Word: big                            0.1550166682127658
+	Word: boy                            0.14014681308732213
+	Word: girl                           0.10511158470673232
+	Total: 1.0
+
+State 8
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.013959589083646768
+	To state	3	0.0
+	To state	4	0.0
+	To state	5	0.0
+	To state	6	0.0
+	To state	7	0.0
+	To state	8	0.0
+	To state	9	0.9860404109163534
+	Total: 1.0000000000000002
+
+Emission probabilities
+	Word: bit                            0.4811935632128258
+	Word: to                             0.30394684514858716
+	Word: saw                            0.17981947574801266
+	Word: .                              0.03504011589057459
+	Total: 1.0000000000000002
+
+State 9
+Transitions
+	To state	0	0.0
+	To state	1	0.0
+	To state	2	0.0
+	To state	3	0.0
+	To state	4	0.0
+	To state	5	0.0
+	To state	6	3.874195391403089e-270
+	To state	7	1.0
+	To state	8	0.0
+	To state	9	0.0
+	Total: 1.0
+
+Emission probabilities
+	Word: the                            0.7392146382232766
+	Word: a                              0.21105393697662317
+	Word: ?                              0.049731424800100246
+	Total: 1.0
+
+---------------------------
+Pi:
+State	0	0.0
+State	1	0.5485588229473793
+State	2	0.0
+State	3	0.0
+State	4	0.0
+State	5	0.45144117705262066
+State	6	0.0
+State	7	0.0
+State	8	0.0
+State	9	0.0
+---------------------------
+
+
+Number of States | Average Purity
+----------------------------------------
+3                    0.4916666666666667
+3                    0.45851370851370854
+3                    0.4175824175824176
+4                    0.6374458874458875
+4                    0.5741071428571429
+4                    0.48214285714285715
+5                    0.67          
+5                    0.5542857142857143
+5                    0.47785714285714287
+6                    0.6722222222222222
+6                    0.6902777777777778
+6                    0.6347222222222222
+7                    0.5578231292517006
+7                    0.7107142857142856
+7                    0.6275510204081634
+8                    0.7520833333333333
+8                    0.5666666666666667
+8                    0.7375        
+9                    0.8148148148148149
+9                    0.811111111111111
+9                    0.7351851851851852
+10                   0.6733333333333333
+10                   0.7021428571428572
+10                   0.7733333333333333
+

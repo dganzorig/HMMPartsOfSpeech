@@ -1,0 +1,59 @@
+el perro mordió el gato .
+el gato mordió el perro .
+el chico mordió el perro .
+el chico mordió el gato
+el perro mordió el chico .
+el gato mordió el chico
+el perro largo mordió el gato .
+un perro mordió el gato .
+un gato mordió el perro .
+un chico mordió un perro .
+un gato mordió un perro .
+un gato largo mordió un perro .
+una chica larga mordió un perro .
+una chica larga mordió un perro largo .
+un chico largo mordió un perro largo .
+un chico largo mordió un gato largo .
+yo mordí un gato largo .
+yo vi un gato largo .
+yo vi un perro largo .
+el perro vio el gato .
+el gato vio el perro .
+el chico vio el gato .
+el chico vio el perro .
+el chico vio el perro largo .
+la chica vio el perro largo .
+tú viste el perro .
+yo dormí .
+el chico dormí .
+yo hablé con el chico .
+yo hablé con el perro .
+el perro habló con el gato .
+yo hablé con el gato .
+una chica habló con el perro .
+nosotros hablamos con el chico .
+nosotros hablamos con la chica .
+nosotros durmió .
+nosotros hablamos .
+¿ quién es el chico ?
+¿ quién es la chica ?
+¿ quién es el perro ?
+¿ quién mordió el perro ?
+¿ quién vio el perro ?
+¿ a quién vio el chico ?
+¿ a quién vio la chica ?
+¿ a quién vio el perro ?
+¿ quién vio el chico ?
+¿ quién durmió ?
+¿ quién mordió el perro largo ?
+¿ quién mordió el perro ?
+¿ quién habló con la chica ?
+¿ a quién vio la chica ?
+¿ a quién vio el chico ?
+¿ a quién mordió el perro ?
+¿ a quién mordió el gato ?
+¿ con quién habló ?
+¿ con quién hablamos ?
+¿ qué vio el chico ?
+¿ qué vio la chica ?
+¿ qué mordió el perro ?
